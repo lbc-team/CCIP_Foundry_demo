@@ -1,6 +1,6 @@
-# CCIP Self-Serve Tokens
+# CCIP Token 跨链 Foundry Demo
 
-[Step by Step tutorials](./deploy_guide.md)
+[Step by Step tutorials - 中文部署指南](./deploy_guide.md)
 
 This repository contains a collection of Foundry scripts designed to simplify interactions with CCIP 1.6 contracts.
 
