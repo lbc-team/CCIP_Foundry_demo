@@ -1,0 +1,17 @@
+{
+  "BnMToken": {
+    "name": "TinyToken",
+    "symbol": "TT",
+    "decimals": 18,
+    "maxSupply": 0,
+    "preMint": 0,
+    "ccipAdminAddress": "0xd82eCEFeA2197622579922034d00735E4e4c095d"
+  },
+  "tokenAmountToMint": 1000000000000000000000,
+  "tokenAmountToTransfer": 1000000000000000,
+  "feeType": "native",
+  "remoteChains": {
+    "11155111": 84532,
+    "84532": 11155111
+  }
+}
